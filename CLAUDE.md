@@ -50,7 +50,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Next.js 15 with App Router
 - React 19
 - TypeScript with strict type checking
-- Volta for Node.js version management (v22.16.0)
+- Volta for Node.js version management (v22.23.4)
 
 ### Special Notes:
 - Always run `panda codegen` before building for production
